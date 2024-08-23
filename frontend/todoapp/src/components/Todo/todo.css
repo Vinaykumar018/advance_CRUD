@@ -1,0 +1,13 @@
+#updateSection {
+    display: none;
+    position: absolute;
+    top:200px;
+    width:60vw;
+    left:20vw
+
+
+}
+
+.col {
+    position: relative;
+}
