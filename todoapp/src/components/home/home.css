@@ -1,0 +1,20 @@
+.home{
+    width:100vw;
+   
+}
+.btn-nav{
+    background-color: red;
+    border-radius: 10px;
+    color:white!important;
+    font-size: large;
+    border:2px black solid;
+    padding: 10px;
+    text-decoration: none!important
+
+}
+.lead{
+    word-spacing: 8px;
+}
+.display-4{
+    font-weight: 600;
+}
